@@ -1,0 +1,2 @@
+# visual_transformer_for_space_image_recognition
+Обучаем продобученную модель VT классификации космических снимков
